@@ -4,7 +4,7 @@ import requests
 from datetime import datetime
 from collections import defaultdict
 
-API_KEY = "8affa8b6fcea0bde00cc2e7df5c22d73" 
+API_KEY = "API_Key" 
 CURRENT_URL = "https://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast"
 
