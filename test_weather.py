@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "8affa8b6fcea0bde00cc2e7df5c22d73"
+API_KEY = "API-key"
 location = "New York"  # You can change this to test other locations
 
 url = f"https://api.openweathermap.org/data/2.5/weather"
