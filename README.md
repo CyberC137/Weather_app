@@ -15,3 +15,8 @@ This is a Python-based weather forecast app using the OpenWeatherMap API, with f
 - Tkinter (GUI)
 - SQLite (Local DB)
 - OpenWeatherMap API
+  
+##  Getting Started
+- Install dependencies : pip install requests
+- Open the Python file and replace: API_KEY = "API_KEY" with your actual API key from OpenWeatherMap
+- python weather_app.py
