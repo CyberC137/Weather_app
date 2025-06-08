@@ -4,7 +4,7 @@ import sqlite3
 import requests
 from datetime import datetime
 
-API_KEY = "8affa8b6fcea0bde00cc2e7df5c22d73"
+API_KEY = "API-KEY"
 DB_NAME = "weather_data.db"
 FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast"
 
